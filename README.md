@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• ✨ Creating bugs since 2022<br>• 📚 I'm currently learning Django and web apps <br>• 🎯 Goals: live in a cold place ❄ and speak english 🚀<br>• 🎲 And ... i train 💪 and play 🎸 guitar</p>
+<p align="left">• ✨ Creating bugs since 2022<br>• 📚 I'm currently learning Django and web apps <br>• 🎲 And ... i train 💪 and play 🎸 guitar</p>
 
 ###
 
